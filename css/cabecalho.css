@@ -1,4 +1,10 @@
 
+.btn-pulanavegacao{
+  position: absolute;
+  left: -9999px;
+  opacity: 0;
+}
+
 .cabecalho {
   position: absolute;
   top: -2.5em;
